@@ -165,17 +165,19 @@ body {
 }
 
 .btn-1 {
-  margin-left: 872px; 
-  margin-top: 56px;
   background-color: #555;
   color: white;
   border: none;
-  position: absolute;
+  position: relative;
   width: 140px;
   height: 45px;
   text-align: center;
   font-size: 17px;
   font-family: 'Source Sans Pro', sans-serif;
+  display: block;
+  margin-left: auto;
+  top: 71px;
+  margin-right: auto;
 }
 
 
