@@ -221,17 +221,18 @@ body {
   }
 
   .btn-1 {
-    margin-top: 31px;
     background-color: #555;
     color: white;
     border: none;
-    position: absolute;
+    position: relative;
     width: 110px;
     height: 36px;
     text-align: center;
     font-size: 14px;
     font-family: 'Source Sans Pro', sans-serif;
-    margin-left: 138px;
+    margin-left: auto;
+    top: 52px;
+    margin-right: auto;
   }
 
   .btn-1:hover {
